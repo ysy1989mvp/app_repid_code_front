@@ -1,14 +1,14 @@
 {
 	"pages": [
 		{
+		    "path" : "pages/gongzuotai/index/index",
+		    "style" : {"navigationBarTitleText": "工作台"}
+		},
+		{
             "path" : "pages/gerenzhongxin/index/index",
             "style" : {
 				"navigationBarTitleText": "个人中心"
 			}
-        }
-        ,{
-            "path" : "pages/gongzuotai/index/index",
-            "style" : {"navigationBarTitleText": "工作台"}
         }
         ,{
             "path" : "pages/renwu/index/index",
@@ -21,7 +21,7 @@
     ],
 	"globalStyle": {
 		"navigationBarTextStyle": "black",
-		"navigationBarBackgroundColor": "#FFFFFF",
+		"navigationBarBackgroundColor": "#FFFFFF"
 	},
 	"tabBar": {
 		"color": "#C0C4CC",
